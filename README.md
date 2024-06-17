@@ -10,18 +10,18 @@ boba
 
 ### Programming Languages / Frameworks
 
-* JavaScript
+* JavaScript, Three.js
 * React | Node.js
 
 ### User Interface 
 
-Boba (TBD)
+
 
 
 ### How to run:
 
 - Install node.js version 18 or higher and its required dependencies
-- Install React software dependencies: "react-dom", "react-icons", "react-router-dom", "react-scripts" and "web-vitals" 
+- Install React software dependencies: "react-dom", "react-icons", "react-router-dom", "react-scripts", and "
 
 ```
 In terminal type without quotes:
