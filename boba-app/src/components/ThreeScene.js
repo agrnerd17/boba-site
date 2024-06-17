@@ -53,7 +53,7 @@ const ThreeScene = () => {
             const boba = new THREE.Mesh(bobaShape, boba_material);
             boba.position.set(
                 (Math.random() - 0.5) * 1.8,
-                (Math.random() - 0.5) * 2.6 - 1.4 / 2, //places boba spheres in lower part of the liquid
+                (Math.random() - 0.5) * 2.6 - 1.4 / 2, //places boba spheres in middle part of the liquid
                 (Math.random() - 0.5) * 1.8
             );
             boba_balls.push(boba);
